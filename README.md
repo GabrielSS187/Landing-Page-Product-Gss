@@ -1,6 +1,8 @@
 # Landing Page Product Gss
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GabrielSS187/Landing-Page-Product-Gss/blob/main/LICENSE) 
 
+![logo](https://user-images.githubusercontent.com/86306877/193376432-b1e33aa8-b575-4671-96ee-3f4aa5617b19.png)
+
 # Sobre o projeto
 
 ### Link: [ Landing-Page-Product-Gss](https://landing-page-product-gss.vercel.app/)
