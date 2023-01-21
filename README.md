@@ -52,7 +52,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-https://github.com/GabrielSS187/Landing-Page-Product-Gss.git
+git clone https://github.com/GabrielSS187/Landing-Page-Product-Gss.git
 
 # entrar na pasta do projeto front end web
 cd Landing-Page-Product-Gss
